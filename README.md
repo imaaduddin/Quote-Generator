@@ -1,3 +1,3 @@
 # Quote-Generator
 
-A quote generator project from some of my favorite anime charcters using JavaScript.
+A quote generator project generating popular quotes using JavaScript.
